@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="./img/icon.png" alt="portium Icon">
+    <img width="300" src="./img/icon.png" alt="portium Icon">
 </p>
 
 <div align = center>
