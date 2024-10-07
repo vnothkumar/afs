@@ -1,3 +1,11 @@
+<br>
+
+<p align="center">
+    <img width="200" src="./img/icon.png" alt="portium Icon">
+</p>
+
+<br>
+
 <div align = center>
   
   <h1>PORTIUM</h1>
