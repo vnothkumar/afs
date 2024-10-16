@@ -21,7 +21,7 @@
 
 The Advanced Filesystem (AFS) addresses modern data storage challenges by providing unique solutions that enhance data integrity, accessibility, and lifecycle management. Built for scalability and flexibility, AFS is suitable for a variety of environments.
 
-## Key Features
+### Key Features
 
 - **Adaptive Data Caching**: Utilizes real-time analytics to optimize caching strategies based on current workload patterns, prioritizing frequently accessed data for improved performance.
 
