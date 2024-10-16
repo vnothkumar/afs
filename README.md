@@ -11,7 +11,7 @@
 
 <br>
 
-  <a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
+  <a href="#Installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/vnothkumar/afs/blob/main/LICENSE"><kbd> <br> License <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/vnothkumar/afs/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
 
@@ -38,3 +38,5 @@ The Advanced Filesystem (AFS) addresses modern data storage challenges by provid
 - **Context-Aware Storage**: Adjusts filesystem behavior based on contextual information (e.g., user location, device type) to optimize performance and security.
 
 - **Dynamic Redundancy Management**: Dynamically adjusts redundancy levels based on data criticality and access frequency, balancing performance and reliability.
+
+## Installation
